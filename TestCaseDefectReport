@@ -1,0 +1,53 @@
+**********TEST CASE**********
+HEADER:-
+	Testcase Name:-Payment-1
+	Testcase type:-Functional
+	Module:-Payment Gateway
+	Severity:-Critical
+	Status:-XXX
+	Pre-Condition:-User must login & complete OTP verification
+	Test Data:-Name:Pratham,Card No.:1234567891234567,Expiry:06/23,CVV:786
+	Summary:-To Check Payment Gateway
+TABLE:-
+TEST ID|TESTCASE DESC|TEST_DATA|EXPE_RESULT|ACTUAL_RESULT|STATUS
+
+FOOTER:-
+Author|Reviewed by|Date|Approved by
+
+**********DEFECT REPORT*********
+TEMPLATE:-
+	Defect ID:-
+	Defect Description:-
+	Version:-
+	Steps:-
+	Date Raised:-
+	Reference:-
+	Detected By:-
+	Status:-
+	Fixed By:-
+	Date Closed:-
+	Severity :-
+	Priority:-
+
+PROBLEM STATEMENT:-
+	Defect Name:-Custommer Login page not working.
+	Defect ID:-0001
+	Project Name:-E-commerce Platform
+	Module Name:-Login
+	Sub Module Name:-Customer Login
+	Area Path:-Home page>New>User>Login
+	Type of defect:-Functional
+	Status:-Under review by Development
+	Severity:-High
+	Priority:-Critical
+	Summary:-Custommer Login page not working.
+	Description:--Custommer is not redirected to home page after entering username & password,
+	Steps to Reproduce:-
+				i).Goto login Page
+				ii).Enter Username
+				iii).Enter Password
+	Expected Result:-Custommer login successful & redirected to home page.
+	Actual Result:-Custommer login unsuccessful & not redirected to home page.
+	Reported by:-ABC Tester
+	Assign to:-XYZ Develpoer
+	Date & Time:-17|05|2023
